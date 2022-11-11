@@ -12,4 +12,4 @@ Skills: GraphQL / REACT.JS / Next.js / JavaScript / TypeScript / HTML / SCSS / L
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mohsinvirk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/mohsinvirk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohsin-virk/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/6318732)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](mohsinvirk.com)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsinvirk&show_icons=true)  ![Profile views](https://gpvc.arturio.dev/mohsinvirk)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=webdev-codeline&show_icons=true)  ![Profile views](https://gpvc.arturio.dev/webdev-codeline)  
